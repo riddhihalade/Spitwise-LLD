@@ -1,0 +1,12 @@
+SHOW
+SHOW Riddhi
+EXPENSE Riddhi 1000 4 Riddhi Samiksha Atharv Raj EQUAL
+SHOW Raj
+SHOW Riddhi
+EXPENSE Riddhi 1250 2 Samiksha Atharv EXACT 370 880
+EXPENSE Riddhi 1240 2 Samiksha Atharv EXACT 370 880
+SHOW
+EXPENSE Raj 1200 4 Riddhi Samiksha Atharv Raj PERCENT 40 20 20 20
+EXPENSE Raj 1200 4 Riddhi Samiksha Atharv Raj PERCENT 60 20 20 20
+SHOW Riddhi
+SHOW
